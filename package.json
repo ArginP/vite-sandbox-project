@@ -1,0 +1,22 @@
+{
+  "name": "vite-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "vite": "^6.2.0",
+    "vite-plugin-inspect": "^11.0.0"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.17",
+    "collect.js": "^4.36.1",
+    "tailwindcss": "^4.0.17"
+  }
+}
