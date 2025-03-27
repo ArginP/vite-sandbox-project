@@ -1,0 +1,10 @@
+.wrapper {
+    color: orange;
+    background-color: #000;
+    margin: 5rem;
+    font-size: 2rem;
+}
+
+a {
+    color: white;
+}
